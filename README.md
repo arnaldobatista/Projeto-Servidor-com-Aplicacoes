@@ -2,16 +2,25 @@
 
 PROJETO SERVIDOR DE SITES E OUTROS SERVIÇOS.
 
-Construção do projeto completo, desde a parte de infrestrutura até a virtualização de sistemas para subir sites e aplicações.
+Construção do projeto completo, desde a parte de infraestrutura até a virtualização de sistemas para subir sites e aplicações.
 
 A infraestrutura consiste em:
 
-Servidor > Router board PPPOE para gereciar as portas das virtualizações > IP PUBLICO FIXO > DNS GRATIS já configurado SSL em cada server virtual.
+1º - RouterBoard: Acesso a internet via PPPoE + ip publico fixo. (essa RB também gerencia as portas dos servidores e o firewall.)
+2ª - SERVIDOR: 1x Intel Celeron (modelo), 4GB RAM - 1 SSD 128GB 
 
-SERVIDOR: 2x intel xenom (modelo) (quantidade)GB RAM - 2 HDs 1TB para sistemas em RAID2 - 2 HDs 1TB HAID2 para bakups
+
+SERVIDOR: 1x Intel Celeron (modelo), 4GB RAM - 1 SSD 128GB
 SISTEMA: PROXMOX para virtualizar os servidores
-SISTEMAS VIRTUALIZADOS: 
-    UBUNTU SERVER PARA SITE ARNALDO CARPI (CarpiServer1)
-    UBUNTU SERVER PARA SITE GUTEMBERG (GuguServer1)
-
-Esse repositorio esta responsavel pelo CarpiServer1
+    SISTEMAS VIRTUALIZADOS: 
+        UBUNTU SERVER (SITE DE ESTUDO - CLONE MELHORADO ÁREA DO ALUNO UNOPAR)
+            APACHE PARA HOSPEDAR SITE
+            LINK: https://loginunopar.zapto.org/
+            REPOSITORIO: https://github.com/arnaldocarpi/carteirinha-unopar
+            MANTENEDORES:
+                https://github.com/arnaldocarpi
+                https://github.com/OliveiraGutemberg
+        FIXTURES: Site atualizado automaticamente via Github Actions quando a branche main for atualizada;
+                  SSL habilitado
+        TRABALHANDO: IP V6;
+                     área de cadastro.

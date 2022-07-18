@@ -1,6 +1,6 @@
 ## PROJETO SERVIDOR DE SITES E OUTROS SERVIÇOS.
 
-Esse projeto consiste na construção do projeto de forma completa, desde a parte de infraestrutura até a virtualização de sistemas, configuração de ambientes,
+Esse projeto consiste na construção de forma completa de um servidor web, desde a parte de infraestrutura até a virtualização de sistemas, configuração de ambientes,
 instalação e configuração de aplicações para hospedar sites e caso necessário, outros serviços.
 
 ### A infraestrutura consiste em:

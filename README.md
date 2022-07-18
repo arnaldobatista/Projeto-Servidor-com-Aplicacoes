@@ -18,4 +18,4 @@ instalação e configuração de aplicações para hospedar sites e caso necess�
         -   SSL habilitado
     - `Trabalhando:` IP V6 no servidor e área de cadastro.
 
-Acesse o site BETA: [Clone Unopar](https://loginunopar.zapto.org/)
+Acesse o site BETA: [Clone Unopar](https://loginunopar.zapto.org:444)

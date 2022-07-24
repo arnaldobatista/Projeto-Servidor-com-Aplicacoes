@@ -28,4 +28,4 @@ Acesse o site BETA: [Clone Unopar](https://loginunopar.zapto.org:444)
         -   SSL habilitado
     - `Trabalhando:` IP V6 no servidor.
 
-Acesse o site BETA: [Clone Unopar](https://carpi.serveblog.net)
+Acesse o site BETA: [PROJETO CARPI SERVER](https://carpi.serveblog.net)

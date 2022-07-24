@@ -6,7 +6,7 @@ instalação e configuração de aplicações para hospedar sites e caso necess�
 ### A infraestrutura consiste em:
 
 1. - `RouterBoard:` Acesso a internet via PPPoE + ip publico fixo. (Essa RB também gerencia as portas dos servidores e o firewall.)
-2. - `SERVIDOR:` 1x Intel Celeron (modelo), 4GB RAM - 1 SSD 128GB, (Vai ser necessário fazer um upgrade para rodar mais de uma maquina virtual) 
+2. - `SERVIDOR:` 1x Intel Celeron (modelo), 4GB RAM - 1 SSD 128GB, (Será necessário fazer um upgrade futuramente para rodar serviços mais pesados) 
 
 ### Sistemas virtualizados via PROXMOX:
 

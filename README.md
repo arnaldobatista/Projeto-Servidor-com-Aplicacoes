@@ -26,6 +26,11 @@ Acesse o site BETA: [Clone Unopar](https://loginunopar.zapto.org:444)
     - `Mantenedores:` [Github Arnaldo Carpi](https://github.com/arnaldocarpi) - [Github Gutemberg Oliveira](https://github.com/OliveiraGutemberg)
     - `Fixtures:` Site atualizado automaticamente via Github Actions quando houver alguma alteração na branche main;
         -   SSL habilitado
-    - `Trabalhando:` IP V6 no servidor.
+    - `Trabalhando:` 
+        - IP V6 no servidor;
+        - TimeLine;
+        - Área de pesquisa;
+        - Área de acesso (logins);
+        - Área de criação de conteúdo.
 
 Acesse o site BETA: [PROJETO CARPI SERVER](https://carpi.serveblog.net)

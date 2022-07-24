@@ -20,7 +20,7 @@ instalação e configuração de aplicações para hospedar sites e caso necess�
 
 Acesse o site BETA: [Clone Unopar](https://loginunopar.zapto.org:444)
 
-2. `Ubuntu Server:` (SITE DE ESTUDO - PROJETO CARPI SERVER (SITE PARA TUTORIAIS ESCRITOS E CURSOS)
+2. `Ubuntu Server:` (SITE DE ESTUDO - PROJETO CARPI SERVER (SITE PARA TUTORIAIS ESCRITOS E CURSOS))
     - `APACHE` Para disponibilizar o site no servidor WEB
     - `Repositório:` [Repositório PROJETO CARPI SERVER](https://github.com/arnaldocarpi/Site-principal)
     - `Mantenedores:` [Github Arnaldo Carpi](https://github.com/arnaldocarpi) - [Github Gutemberg Oliveira](https://github.com/OliveiraGutemberg)

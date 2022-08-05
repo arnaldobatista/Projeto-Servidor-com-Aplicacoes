@@ -16,7 +16,7 @@ instalação e configuração de aplicações para hospedar sites e caso necess�
     - `Mantenedores:` [Github Arnaldo Carpi](https://github.com/arnaldocarpi) - [Github Gutemberg Oliveira](https://github.com/OliveiraGutemberg)
     - `Fixtures:` Site atualizado automaticamente via Github Actions quando houver alguma alteração na branche main;
         -   SSL habilitado
-    - `Trabalhando:` IP V6 no servidor e área de cadastro.
+    - `Trabalhando:` IP V6 no servidor.
 
 Acesse o site BETA: [Clone Unopar](https://loginunopar.zapto.org:444)
 

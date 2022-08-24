@@ -10,17 +10,7 @@ instalação e configuração de aplicações para hospedar sites e caso necess�
 
 ### Sistemas virtualizados via PROXMOX:
 
-1. `Ubuntu Server:` (SITE DE ESTUDO - CLONE MELHORADO ÁREA DO ALUNO UNOPAR)
-    - `APACHE` Para disponibilizar o site no servidor WEB
-    - `Repositório:` [Repositório Clone melhorado Unopar](https://github.com/arnaldocarpi/carteirinha-unopar)
-    - `Mantenedores:` [Github Arnaldo Carpi](https://github.com/arnaldocarpi) - [Github Gutemberg Oliveira](https://github.com/OliveiraGutemberg)
-    - `Fixtures:` Site atualizado automaticamente via Github Actions quando houver alguma alteração na branche main;
-        -   SSL habilitado
-    - `Trabalhando:` IP V6 no servidor.
-
-Acesse o site BETA: [Clone Unopar](https://loginunopar.zapto.org:444)
-
-2. `Ubuntu Server:` (SITE DE ESTUDO - PROJETO CARPI SERVER (SITE PARA TUTORIAIS ESCRITOS E CURSOS))
+1. `Ubuntu Server:` (SITE DE ESTUDO - PROJETO CARPI SERVER (SITE PARA TUTORIAIS ESCRITOS E CURSOS))
     - `APACHE` Para disponibilizar o site no servidor WEB
     - `Repositório:` [Repositório PROJETO CARPI SERVER](https://github.com/arnaldocarpi/Site-principal)
     - `Mantenedores:` [Github Arnaldo Carpi](https://github.com/arnaldocarpi) - [Github Gutemberg Oliveira](https://github.com/OliveiraGutemberg)

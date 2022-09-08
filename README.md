@@ -17,10 +17,6 @@ instalação e configuração de aplicações para hospedar sites e caso necess�
     - `Fixtures:` Site atualizado automaticamente via Github Actions quando houver alguma alteração na branche main;
         -   SSL habilitado
     - `Trabalhando:` 
-        - IP V6 no servidor;
-        - TimeLine;
-        - Área de pesquisa;
-        - Área de acesso (logins);
-        - Área de criação de conteúdo.
+        - Construção do site (em andamento);
 
 Acesse o site BETA: [PROJETO CARPI SERVER](https://carpi.serveblog.net)

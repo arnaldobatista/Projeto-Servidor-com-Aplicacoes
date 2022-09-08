@@ -16,7 +16,7 @@ instalação e configuração de aplicações para hospedar sites e caso necess�
     - `Mantenedores:` [Github Arnaldo Carpi](https://github.com/arnaldocarpi) - [Github Gutemberg Oliveira](https://github.com/OliveiraGutemberg)
     - `Fixtures:` Site atualizado automaticamente via Github Actions quando houver alguma alteração na branche main;
         -   SSL habilitado
-    - `Trabalhando:` 
+    - `Implantar:` 
         - Construção do site (em andamento);
 
 Acesse o site BETA: [PROJETO CARPI SERVER](https://carpi.serveblog.net)

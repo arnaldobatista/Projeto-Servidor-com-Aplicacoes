@@ -11,12 +11,12 @@ instalação e configuração de aplicações para hospedar sites e caso necess�
 ### Sistemas virtualizados via PROXMOX:
 
 1. `Ubuntu Server:` (SITE DE ESTUDO - PROJETO CARPI SERVER (SITE PARA TUTORIAIS ESCRITOS E CURSOS))
-    - `APACHE` Para disponibilizar o site no servidor WEB
     - `Repositório:` [Repositório PROJETO CARPI SERVER](https://github.com/arnaldocarpi/Site-principal)
-    - `Mantenedores:` [Github Arnaldo Carpi](https://github.com/arnaldocarpi) - [Github Gutemberg Oliveira](https://github.com/OliveiraGutemberg)
+    - `Mantenedores:` [Github Arnaldo Carpi](https://github.com/arnaldocarpi)
     - `Fixtures:` Site atualizado automaticamente via Github Actions quando houver alguma alteração na branche main;
-        -   SSL habilitado
+        
     - `Implantar:` 
         - Construção do site (em andamento);
+        -   SSL
 
-Acesse o site BETA: [PROJETO CARPI SERVER](https://carpi.serveblog.net)
+Acesse o site BETA: [PROJETO CARPI SERVER](http://carpi.serveblog.net/)

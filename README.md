@@ -20,3 +20,14 @@ instalação e configuração de aplicações para hospedar sites e caso necess�
         -   SSL
 
 Acesse o site BETA: [PROJETO CARPI SERVER](http://carpi.serveblog.net/)
+
+2. `Ubuntu Server:` (SITE DE ESTUDO - PROJETO CARPI NOTES (SITE PARA CRIAÇÃO DE NOTAS))
+    - `Repositório:` [Repositório PROJETO CARPI NOTES - FRONT](https://github.com/arnaldocarpi/Carpi-Notes-FRONT)
+    - `Repositório:` [Repositório PROJETO CARPI NOTES - API](https://github.com/arnaldocarpi/Carpi-Notes-API)
+    - `Mantenedores:` [Github Arnaldo Carpi](https://github.com/arnaldocarpi)
+    - `Fixtures:` Site atualizado automaticamente via Github Actions quando houver alguma alteração na branche main;
+        
+    - `Implantar:` 
+        -   SSL
+
+Acesse o site: [PROJETO CARPI NOTES](http://carpinotes.ddns.net:81/)

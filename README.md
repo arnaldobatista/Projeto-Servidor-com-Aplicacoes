@@ -1,4 +1,4 @@
-<img src="https://github.com/arnaldocarpi/Projeto-Servidor-com-Aplicacoes/blob/main/ilustra-capa2.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://github.com/arnaldocarpi/Projeto-Servidor-com-Aplicacoes/blob/main/ilustra-capa2.png" min-width="400px" max-width="400px" width="450px" align="right" alt="Computador iuriCode">
 
 ## PROJETO SERVIDOR DE SITES E OUTROS SERVIÇOS.
 

@@ -1,6 +1,7 @@
 <img src="https://github.com/arnaldocarpi/Projeto-Servidor-com-Aplicacoes/blob/main/ilustra-capa2.png" min-width="400px" max-width="400px" width="450px" align="right" alt="Computador iuriCode">
 
 ## PROJETO SERVIDOR DE SITES E OUTROS SERVIÇOS.
+Desativado por um tempo devido a problemas de hardware.
 
 Esse projeto consiste na construção de forma completa de um servidor web, desde a parte de infraestrutura até a virtualização de sistemas, configuração de ambientes,
 instalação e configuração de aplicações para hospedar sites e caso necessário, outros serviços.

@@ -34,3 +34,7 @@ Acesse o site BETA: [PROJETO CARPI SERVER](http://carpi.serveblog.net/)
         -   SSL
 
 Acesse o site: [PROJETO CARPI NOTES](http://carpinotes.ddns.net:81/)
+
+[![Linkedin: Arnaldo Batista](https://img.shields.io/badge/-arnaldbatista-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arnaldbatista)](https://www.linkedin.com/in/arnaldbatista)
+[![Gmail Badge](https://img.shields.io/badge/-arnaldo.carpi@icloud.com-006bed?style=flat-square&logo=apple&logoColor=white&link=mailto:arnaldo.carpi@icloud.com)](mailto:arnaldo.carpi@icloud.com)
+[![GitHub Arnaldo Batista]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/arnaldbatista)
